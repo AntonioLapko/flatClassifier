@@ -1,0 +1,6 @@
+price,region,rooms,floor,toilet_with_bathroom,kitchen_with_living_room,category
+150000,A,2,5,False,True,стандарт
+200000,B,3,7,True,True,улучшенный
+120000,A,2,3,False,False,стандарт
+140000,C,1,2,False,True,стандарт
+180000,B,3,6,True,False,улучшенный
